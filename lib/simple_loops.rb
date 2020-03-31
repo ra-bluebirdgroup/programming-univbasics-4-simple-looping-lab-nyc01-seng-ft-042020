@@ -13,7 +13,8 @@ def output_array(array)
     i = 0
     puts array[i]
     i++
-
+  end
+counter++
   }
 
 end
