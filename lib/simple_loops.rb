@@ -14,10 +14,10 @@ end
 def output_array(array)
   # array.each {|i| puts i}
   counter = 0
-  while counter < array.length do
-    i = 0
-    puts array[i]
-    counter += 1    
+  # while counter < array.length do
+  #   i = 0
+  #   puts array[i]
+  #   counter += 1    
 end
 
 def return_string_array(array)
