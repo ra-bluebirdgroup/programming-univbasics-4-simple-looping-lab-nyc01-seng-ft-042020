@@ -14,3 +14,5 @@ def output_array(array)
     puts array[i]
     counter++
     i++
+  end
+end
