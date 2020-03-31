@@ -18,7 +18,7 @@ end
 def return_string_array(array)
   new_array = []
   array.each {|i| i.to_s}
-  array.ech { |i| new_array << i}
+  array.each { |i| new_array << i}
   new_array
 
 end 
