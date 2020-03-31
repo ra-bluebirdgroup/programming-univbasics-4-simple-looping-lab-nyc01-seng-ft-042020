@@ -12,7 +12,7 @@ end
 
 
 def output_array(array)
-  # array.each {|i| puts i}
+   array.each {|i| puts i}
   counter = 0
   # while counter < array.length do
   #   i = 0
