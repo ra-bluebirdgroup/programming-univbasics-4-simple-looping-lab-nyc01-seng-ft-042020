@@ -20,3 +20,5 @@ def return_string_array(array)
   array.each {|i| i.to_s}
   array.ech { |i| new_array << i}
   new_array
+
+end 
