@@ -10,10 +10,10 @@ end
 def output_array(array)
   counter = 0
     i = 0
-  while counter < array.lenght do 
+  while counter < array.lenght do
     puts array[i]
     counter++
     i++
-
+end 
 
 end
