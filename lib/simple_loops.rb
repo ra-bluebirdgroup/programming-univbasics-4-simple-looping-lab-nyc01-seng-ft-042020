@@ -21,4 +21,4 @@ def return_string_array(array)
   array.each { |i| new_array << i}
   new_array
 
-end 
+end
