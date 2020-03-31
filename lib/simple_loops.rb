@@ -8,5 +8,5 @@ def loop_message_n_times(message, number)
 end
 
 def output_array(array)
-  array.each.{|i| i.to_i puts array[i]}
+  array.each.{|i| puts array[i]}
 end
