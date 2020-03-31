@@ -7,7 +7,7 @@ end
 def loop_message_n_times(message, number)
   n  = number
   n.to_i
-  n.times{puts message.to_i}
+  n.times{puts message}
 end
 
 
